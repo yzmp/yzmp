@@ -6,7 +6,7 @@ At [AtScale](https://www.atscale.com), I lead the team behind the product's UI, 
 
 ### Highlights
 
-- Managed up to 7 engineers across 4 countries, including hiring, 1:1s, feedback and performance
+- Managed up to 7 engineers across 3 countries, including hiring, 1:1s, feedback and performance
 - Built a full-stack LLM integration for natural-language data queries with our AI team
 - Led semantic model conversion, including DAX transpilation with ANTLR
 - Cut load times for a key resource by up to 10x
